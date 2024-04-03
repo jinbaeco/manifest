@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: demoapp
-          image: jinbaeco/demo_app:59
+          image: jinbaeco/demo_app:64
           ports:
             - containerPort: 8080 
